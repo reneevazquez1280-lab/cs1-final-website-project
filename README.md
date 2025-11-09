@@ -1,7 +1,17 @@
 # cs1-final-website-project
 
 # Overview
-Your final project is to use all your HTML and CSS skills to create a stylish, multi-page website about a topic of your choice.
+Your final project is to use all your HTML and CSS skills to create a polished and stylish, multi-page website about a topic of your choice.
+
+# Development Phases
+1. Brainstorming and topic selection
+2. Outline content of each page with bullet points
+3. Sketch *wireframe* layouts for each page to identify how website *components* will be arranged on the screen
+4. Setup project files with required HTML, titles, and CSS link tags
+5. Develop basic HTML structure for main component container divs (header, nav, main, etc.)
+6. Use CSS position and box model properties to arrange main components on screen
+7. Add detailed content and CSS styling for font, color, transitions, and animations
+8. Test and refine
 
 # Grading Rubric
 ## Files
