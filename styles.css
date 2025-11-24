@@ -1,3 +1,26 @@
+* {
+    margin: 0px;
+}
+
 .cursive {
     font-style: oblique;
+}
+
+body {
+    background-color: #7d1119;
+}
+
+.header {
+    padding: 20px;
+    background-color: lightpink;
+    color: rgb(0, 0, 0);
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+.nav {
+    
+}
+
+.img {
+    
 }
