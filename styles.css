@@ -22,5 +22,6 @@ body {
 }
 
 .img {
-    
+   border: 6px soild pink;
+   padding: 15px;
 }
