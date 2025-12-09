@@ -22,16 +22,23 @@ body {
     
 } 
 
-img {
-    width: 500px;
-    height: 500px;
+.my-box {
+    width: 450px;
+    height: 600px;
+    border: 10px solid lightpink;
+    background-color: lightpink;
+    padding: 30px;
 }
 
-img {
-    border: 50px solid lightpink;
-    border-radius: 10px;
-    padding: 10px;
-    background-color: black;
+.my-box img {
+    width: 450px;
+    height: 450px;
 }
+
+.my-box a {
+    col
+}
+
+
 
 
