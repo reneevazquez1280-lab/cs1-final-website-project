@@ -23,22 +23,46 @@ body {
 } 
 
 .my-box {
+    border: 2px solid black;
     width: 450px;
-    height: 600px;
+    height: 500px;
     border: 10px solid lightpink;
     background-color: lightpink;
     padding: 30px;
+    border-radius: 10px;
 }
 
 .my-box img {
     width: 450px;
     height: 450px;
+    border-radius: 10px;
+    border: 10px whitesmoke;
 }
 
-.my-box a {
-    col
+.inner-box {
+    width: 150px;
+    height: 30px;
+    border: 3px black;
+    background-color: whitesmoke;
+    margin: 0 auto;
+    border-radius: 10px;
+    justify-content: center;
+    text-align: center;
+
 }
 
+.my-text {
+    border: 10px;
+    width: 400px;
+    height: 20px;
+    background: whitesmoke;
+    text-align: center;
+    border-radius: 10px;
+    font-size: large;
+}
 
-
-
+.my-link {
+    color: black;
+    font-style: italic;
+    font-size: large;
+}
